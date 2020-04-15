@@ -1,0 +1,50 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+a	/home/rahul/git/github_repos/training/python/intro/ex3.py	/^a = {'ajscbdjbcal': 1, 'bsadvas': 2, 'asdvsdac': {'dsdava': 3, 'e': {'asdvdsf': 3}, 'f': 'ldvnklabjbdas'}, 'g': 'ksdnjva oc '}$/;"	v	language:Python
+backslash_cat	/home/rahul/git/github_repos/training/python/intro/ex11.py	/^backslash_cat = "I'm \\\\ a \\\\ cat."$/;"	v	language:Python
+binary	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^binary = "binary"$/;"	v	language:Python
+days	/home/rahul/git/github_repos/training/python/intro/ex10.py	/^days = "Mon Tue Wed Thu Fri Sat Sun"$/;"	v	language:Python
+default_str	/home/rahul/git/github_repos/training/python/intro/palindrome.py	/^    default_str = "malayalam"$/;"	v	language:Python
+do_not	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^do_not = "don't"$/;"	v	language:Python
+e	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^e = "a string with a right side."$/;"	v	language:Python
+end1	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end1 = "C"$/;"	v	language:Python
+end10	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end10 = "g"$/;"	v	language:Python
+end11	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end11 = "e"$/;"	v	language:Python
+end12	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end12 = "r"$/;"	v	language:Python
+end2	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end2 = "h"$/;"	v	language:Python
+end3	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end3 = "e"$/;"	v	language:Python
+end4	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end4 = "e"$/;"	v	language:Python
+end5	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end5 = "s"$/;"	v	language:Python
+end6	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end6 = "e"$/;"	v	language:Python
+end7	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end7 = "B"$/;"	v	language:Python
+end8	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end8 = "u"$/;"	v	language:Python
+end9	/home/rahul/git/github_repos/training/python/intro/ex8.py	/^end9 = "r"$/;"	v	language:Python
+formatter	/home/rahul/git/github_repos/training/python/intro/ex9.py	/^formatter = "{0} {1} {2} {3}"$/;"	v	language:Python
+hilarious	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^hilarious = False$/;"	v	language:Python
+joke_evaluation	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^joke_evaluation = "Isn't that joke so funny?! {}"$/;"	v	language:Python
+months	/home/rahul/git/github_repos/training/python/intro/ex10.py	/^months = "Jan\\nFeb\\nMar\\nApr\\nMay\\nJun\\nJul\\nAug"$/;"	v	language:Python
+my_age	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_age = 33 # not a lie$/;"	v	language:Python
+my_age	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_age = 33 # not a lie$/;"	v	language:Python
+my_eyes	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_eyes = 'Black'$/;"	v	language:Python
+my_eyes	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_eyes = 'Black'$/;"	v	language:Python
+my_hair	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_hair = 'Black'$/;"	v	language:Python
+my_hair	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_hair = 'Black'$/;"	v	language:Python
+my_height	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_height = 74 # inches$/;"	v	language:Python
+my_height	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_height = 74 # inches$/;"	v	language:Python
+my_name	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_name = 'Rahul Shelke'$/;"	v	language:Python
+my_name	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_name = 'Rahul Shelke'$/;"	v	language:Python
+my_teeth	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_teeth = 'White'$/;"	v	language:Python
+my_teeth	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_teeth = 'White'$/;"	v	language:Python
+my_weight	/home/rahul/git/github_repos/training/python/intro/ex5.py	/^my_weight = 130 # lbs$/;"	v	language:Python
+my_weight	/home/rahul/git/github_repos/training/python/intro/ex6.py	/^my_weight = 130 # lbs$/;"	v	language:Python
+n	/home/rahul/git/github_repos/training/python/intro/test.py	/^n= "rahul"$/;"	v	language:Python
+number	/home/rahul/git/github_repos/training/python/intro/palindrome.py	/^    number = 909$/;"	v	language:Python
+number	/home/rahul/git/github_repos/training/python/intro/test.py	/^number = 100$/;"	v	language:Python
+pal	/home/rahul/git/github_repos/training/python/intro/palindrome.py	/^    pal = palindrome_num(number)$/;"	v	language:Python
+palindrome_num	/home/rahul/git/github_repos/training/python/intro/palindrome.py	/^def palindrome_num(number):$/;"	f	language:Python
+palindrome_str	/home/rahul/git/github_repos/training/python/intro/palindrome.py	/^def palindrome_str(default_str):$/;"	f	language:Python
+pal_str	/home/rahul/git/github_repos/training/python/intro/palindrome.py	/^    pal_str = palindrome_str(default_str)$/;"	v	language:Python
+persian_cat	/home/rahul/git/github_repos/training/python/intro/ex11.py	/^persian_cat = "I'm split\\non a line."$/;"	v	language:Python
+tabby_cat	/home/rahul/git/github_repos/training/python/intro/ex11.py	/^tabby_cat = "\\tI'm tabbed in."$/;"	v	language:Python
+w	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^w = "This is the left side of..."$/;"	v	language:Python
+x	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^x = "There are {} types of people.".format(10)$/;"	v	language:Python
+y	/home/rahul/git/github_repos/training/python/intro/ex7.py	/^y = "Those who know {binary} and those who {do_not}.".format(binary=binary, do_not=do_not)$/;"	v	language:Python

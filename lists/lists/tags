@@ -1,0 +1,7 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+a_lists	/home/rahul/git/github_repos/training/python/lists/exml1.py	/^a_lists = []$/;"	v	language:Python
+a_lists	/home/rahul/git/github_repos/training/python/lists/exml2.py	/^a_lists = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]$/;"	v	language:Python
+b_lists	/home/rahul/git/github_repos/training/python/lists/exml1.py	/^b_lists = [1, 3, 4, 5]$/;"	v	language:Python
+b_lists	/home/rahul/git/github_repos/training/python/lists/exml2.py	/^b_lists = []$/;"	v	language:Python
+c_lists	/home/rahul/git/github_repos/training/python/lists/exml1.py	/^c_lists = ["apple", "bat", "cat"]$/;"	v	language:Python
+d_lists	/home/rahul/git/github_repos/training/python/lists/exml1.py	/^d_lists = ['', 1, "string"]$/;"	v	language:Python

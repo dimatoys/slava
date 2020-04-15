@@ -1,0 +1,19 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+age	/home/rahul/git/github_repos/training/python/io/ex13.py	/^age = input()$/;"	v	language:Python
+age	/home/rahul/git/github_repos/training/python/io/ex14.py	/^age = input("How old are you? ")$/;"	v	language:Python
+filename	/home/rahul/git/github_repos/training/python/io/ex19.py	/^filename = "\/home\/rahul\/git\/github_repos\/training\/python\/io\/Transactions-2019-04-12.csv"$/;"	v	language:Python
+file_again	/home/rahul/git/github_repos/training/python/io/ex18.py	/^file_again = input("> ")$/;"	v	language:Python
+height	/home/rahul/git/github_repos/training/python/io/ex13.py	/^                                                                       height=height,$/;"	v	language:Python
+height	/home/rahul/git/github_repos/training/python/io/ex13.py	/^height = input()$/;"	v	language:Python
+height	/home/rahul/git/github_repos/training/python/io/ex14.py	/^height = input("How tall are you? ")$/;"	v	language:Python
+indata	/home/rahul/git/github_repos/training/python/io/ex21.py	/^indata = in_file.read()$/;"	v	language:Python
+in_file	/home/rahul/git/github_repos/training/python/io/ex21.py	/^in_file = open(from_file)$/;"	v	language:Python
+out_file	/home/rahul/git/github_repos/training/python/io/ex21.py	/^out_file = open(to_file, 'w')$/;"	v	language:Python
+txt	/home/rahul/git/github_repos/training/python/io/ex18.py	/^txt = open(filename)$/;"	v	language:Python
+txt	/home/rahul/git/github_repos/training/python/io/ex19.py	/^txt = open('test.txt')$/;"	v	language:Python
+txt_1	/home/rahul/git/github_repos/training/python/io/ex19.py	/^txt_1 = open(filename)$/;"	v	language:Python
+txt_again	/home/rahul/git/github_repos/training/python/io/ex18.py	/^txt_again = open(file_again)$/;"	v	language:Python
+weight	/home/rahul/git/github_repos/training/python/io/ex13.py	/^                                                                       weight=weight))$/;"	v	language:Python
+weight	/home/rahul/git/github_repos/training/python/io/ex13.py	/^weight = input()$/;"	v	language:Python
+weight	/home/rahul/git/github_repos/training/python/io/ex14.py	/^                                                        weight=weight))$/;"	v	language:Python
+weight	/home/rahul/git/github_repos/training/python/io/ex14.py	/^weight = input("How much do you weigh? ")$/;"	v	language:Python

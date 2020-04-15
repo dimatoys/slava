@@ -1,0 +1,34 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+add	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^def add(a, b):$/;"	f	language:Python
+age	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^age = add(30, 5)$/;"	v	language:Python
+amount_of_cheese	/home/rahul/git/github_repos/training/python/functions/ex23.py	/^amount_of_cheese = 10$/;"	v	language:Python
+amount_of_crackers	/home/rahul/git/github_repos/training/python/functions/ex23.py	/^amount_of_crackers = 50$/;"	v	language:Python
+break_words	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def break_words(stuff):$/;"	f	language:Python
+cheese_and_crackers	/home/rahul/git/github_repos/training/python/functions/ex23.py	/^def cheese_and_crackers(cheese_count, boxes_of_crackers):$/;"	f	language:Python
+current_file	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^current_file = open(input_file)$/;"	v	language:Python
+current_line	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^current_line = 1$/;"	v	language:Python
+current_line	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^current_line = current_line + 1$/;"	v	language:Python
+current_line	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^current_line = current_line + 1$/;"	v	language:Python
+divide	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^def divide(a, b):$/;"	f	language:Python
+five	/home/rahul/git/github_repos/training/python/functions/ex26.py	/^five = 10 - 2 + 3 - 6$/;"	v	language:Python
+height	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^height = subtract(78, 4)$/;"	v	language:Python
+iq	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^iq = divide(100, 2)$/;"	v	language:Python
+multiply	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^def multiply(a, b):$/;"	f	language:Python
+print_all	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^def print_all(f):$/;"	f	language:Python
+print_a_line	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^def print_a_line(line_count, f):$/;"	f	language:Python
+print_first_and_last	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def print_first_and_last(sentence):$/;"	f	language:Python
+print_first_and_last_sorted	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def print_first_and_last_sorted(sentence):$/;"	f	language:Python
+print_first_word	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def print_first_word(words):$/;"	f	language:Python
+print_last_word	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def print_last_word(words):$/;"	f	language:Python
+print_none	/home/rahul/git/github_repos/training/python/functions/ex22.py	/^def print_none():$/;"	f	language:Python
+print_one	/home/rahul/git/github_repos/training/python/functions/ex22.py	/^def print_one(arg1):$/;"	f	language:Python
+print_two	/home/rahul/git/github_repos/training/python/functions/ex22.py	/^def print_two(*args):$/;"	f	language:Python
+print_two_again	/home/rahul/git/github_repos/training/python/functions/ex22.py	/^def print_two_again(arg1, arg2):$/;"	f	language:Python
+rewind	/home/rahul/git/github_repos/training/python/functions/ex24.py	/^def rewind(f):$/;"	f	language:Python
+secret_formula	/home/rahul/git/github_repos/training/python/functions/ex26.py	/^def secret_formula(started):$/;"	f	language:Python
+sort_sentence	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def sort_sentence(sentence):$/;"	f	language:Python
+sort_words	/home/rahul/git/github_repos/training/python/functions/ex27.py	/^def sort_words(words):$/;"	f	language:Python
+start_point	/home/rahul/git/github_repos/training/python/functions/ex26.py	/^start_point = 10000$/;"	v	language:Python
+subtract	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^def subtract(a, b):$/;"	f	language:Python
+weight	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^weight = multiply(90, 2)$/;"	v	language:Python
+what	/home/rahul/git/github_repos/training/python/functions/ex25.py	/^what = add(age, subtract(height, multiply(weight, divide(iq, 2))))$/;"	v	language:Python
